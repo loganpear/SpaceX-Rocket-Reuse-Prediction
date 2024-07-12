@@ -1,11 +1,19 @@
 # SpaceX Data Science Project 
 
-## Introduction
-
-SpaceX leads the commercial space industry by making space travel more affordable, thanks to its reusable Falcon 9 rockets. Priced at $62 million per launch, significantly less than competitors, SpaceX’s cost savings come from reusing the first stage. This project involves predicting the likelihood of SpaceX reusing the first stage, using machine learning and public data, simulating the role of a data scientist at Space Y, a new competitor.
+This capstone project, part of the IBM Data Science course on Coursera, was instructed by IBM and completed independently. I utilized AI tools such as ChatGPT for coding efficiency and Microsoft's PowerPoint Designer for slideshow formatting.
 
 
-This project simulates real-life data science challenges, covering data collection, wrangling, exploratory analysis, visualization, model development, evaluation, and stakeholder reporting. As a Data Scientist for a startup competing with SpaceX, the goal is to predict the success of Falcon 9 first stage landings.
+## Overview
+
+SpaceX leads the commercial space industry by making space travel more affordable, thanks to its reusable Falcon 9 rockets. Priced at $62 million per launch, significantly less than competitors, SpaceX’s cost savings come from reusing the first stage. This project involves predicting the likelihood of SpaceX reusing the first stage, using machine learning and public data, simulating the role of a data scientist by covering:
+
+- Data collection
+- Wrangling
+- Exploratory analysis
+- Visualization
+- Model development
+- Evaluation
+- Stakeholder reporting
 
 ## Business Problem
 
