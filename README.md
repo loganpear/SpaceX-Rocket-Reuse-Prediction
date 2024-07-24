@@ -1,4 +1,4 @@
-# SpaceX Data Science Project 
+# SpaceX Rocket Reuse Prediction Project 
 
 This capstone project, part of the IBM Data Science course on Coursera, was instructed by IBM and completed independently. I utilized AI tools such as ChatGPT for coding efficiency and Microsoft's PowerPoint Designer for slideshow formatting.
 
